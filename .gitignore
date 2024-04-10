@@ -4,4 +4,5 @@
 .Ruserdata
 outputs/*.csv
 outputs/*.rds
+FishMIP_regional_models/
 .ipynb_checkpoints/
